@@ -7,10 +7,10 @@ Para consolidar meus estudos em técnicas de caching, resolvi criar esse reposit
 
 ## Tecnologias Utilizadas 🖥
 
-- (Nodejs)[https://nodejs.org/]
-- (ExpressJs)[https://expressjs.com/]
-- (Redis)[https://redis.io/]
-- (Node-Cache)[https://github.com/node-cache/node-cache]
+- [Nodejs](https://nodejs.org/)
+- [ExpressJs](https://expressjs.com/)
+- [Redis](https://redis.io/)
+- [Node-Cache](https://github.com/node-cache/node-cache)
 
 ## Como usar 🤔
 
