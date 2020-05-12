@@ -1,0 +1,12 @@
+{
+  "name": "teste-com-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cache": "^5.1.0",
+    "node-fetch": "^2.6.0",
+    "redis": "^3.0.2"
+  }
+}
